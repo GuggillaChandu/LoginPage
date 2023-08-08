@@ -1,0 +1,9 @@
+.dashboardDetails
+{
+    max-width:600px;
+    margin:auto;
+    padding:30px;
+    border:1px solid #ccc;
+    border-radius: 5px;
+    background-color:aqua;
+}
